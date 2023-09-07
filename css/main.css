@@ -34,11 +34,11 @@ footer {
 }
 
 ul.posts { 
-    padding: 5px 0px;
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
 
 ul.posts li {
+    padding: 5px 0px;
     list-style: none;
 }
